@@ -1,0 +1,8 @@
+import { createClient, type SupabaseClient } from "@supabase/supabase-js";
+
+const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
+const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+
+// Null when Supabase is not configured; callers fall back to the seed data in /data.
+export const supabase: SupabaseClient | null =
+  url && key ? createClient(url, key, { auth: { persistSession: false } }) : null;

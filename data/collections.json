@@ -1,0 +1,110 @@
+[
+  {
+    "handle": "all",
+    "title": "All wines and spirits",
+    "kicker": "The cellar",
+    "description": "Every bottle we bring in: Bordeaux, Burgundy and the Loire, Napa and Sonoma, the Dão, and grappa and amaro from Italy.",
+    "rule": {},
+    "image": "/images/hero-cellar.jpg"
+  },
+  {
+    "handle": "red",
+    "title": "Red wines",
+    "kicker": "By colour",
+    "description": "From a twenty-dollar Dão to Pomerol made in new barrels. Choose by taste, not by grape.",
+    "rule": {
+      "type": "Red"
+    },
+    "image": "/images/pour-red.jpg"
+  },
+  {
+    "handle": "white",
+    "title": "White wines",
+    "kicker": "By colour",
+    "description": "Chablis, Graves, Touraine and Napa Chardonnay. Whites for the first course and the long summer table.",
+    "rule": {
+      "type": "White"
+    },
+    "image": null
+  },
+  {
+    "handle": "spirits",
+    "title": "Grappa, amaro and liqueur",
+    "kicker": "After dinner",
+    "description": "Aged grappa from Trentino and the Veneto, amaro, and one very good tiramisù liqueur.",
+    "rule": {
+      "type": "Spirits"
+    },
+    "image": "/images/barrels.jpg"
+  },
+  {
+    "handle": "limited",
+    "title": "Limited allocations",
+    "kicker": "Few cases",
+    "description": "Small-production wines and spirits we receive by the case, not the pallet. When they are gone, they are gone.",
+    "rule": {
+      "limited": true
+    },
+    "image": "/images/cellar-tunnel.jpg"
+  },
+  {
+    "handle": "bordeaux",
+    "title": "Bordeaux",
+    "kicker": "Region",
+    "description": "Pessac-Léognan, Margaux, Saint-Émilion, Pomerol and Fronsac, from estates that have been in the same families for generations.",
+    "rule": {
+      "region": "Bordeaux"
+    },
+    "image": "/images/region-piedmont.jpg"
+  },
+  {
+    "handle": "burgundy",
+    "title": "Burgundy",
+    "kicker": "Region",
+    "description": "Chablis on fossil-rich Kimmeridgian limestone, and Pinot Noir from Pommard.",
+    "rule": {
+      "region": "Burgundy"
+    },
+    "image": null
+  },
+  {
+    "handle": "loire",
+    "title": "Loire Valley",
+    "kicker": "Region",
+    "description": "Sauvignon on flint in Touraine: lively, fresh and aromatic.",
+    "rule": {
+      "region": "Loire Valley"
+    },
+    "image": null
+  },
+  {
+    "handle": "california",
+    "title": "California",
+    "kicker": "Region",
+    "description": "Napa Valley Cabernet, Syrah and Malbec, and Alexander Valley Zinfandel from family wineries.",
+    "rule": {
+      "region": "California"
+    },
+    "image": "/images/region-veneto.jpg"
+  },
+  {
+    "handle": "portugal",
+    "title": "Portugal",
+    "kicker": "Region",
+    "description": "Touriga Nacional and friends from the granite hills of the Dão.",
+    "rule": {
+      "country": "Portugal"
+    },
+    "image": null
+  },
+  {
+    "handle": "italy",
+    "title": "Italy",
+    "kicker": "Region",
+    "description": "Grappa from Trentino and the Veneto, and amaro made the old monks' way.",
+    "rule": {
+      "country": "Italy"
+    },
+    "image": "/images/hero-villa.jpg"
+  }
+]

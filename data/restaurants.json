@@ -1,0 +1,40 @@
+[
+  {
+    "slug": "7-enoteca",
+    "name": "7 Enoteca",
+    "city": "Ontario",
+    "province": "ON",
+    "kind": "Enoteca and kitchen",
+    "address": null,
+    "phone": null,
+    "website": null,
+    "intro": "An enoteca is a wine library: a room built around the bottle. Ask for the Exquisite list and our wines are poured by the glass and by the bottle.",
+    "on_the_list": [
+      "chateau-de-leognan-2018",
+      "domaine-des-chaumes-chablis",
+      "aurore-de-dauzac-margaux-2017",
+      "trie-grappa-riserva"
+    ],
+    "image": "/images/hero-table.jpg",
+    "image_alt": "Red wine poured into a glass at a restaurant table"
+  },
+  {
+    "slug": "centro-on-the-square",
+    "name": "Centro on the Square",
+    "city": "Ontario",
+    "province": "ON",
+    "kind": "Dining on the square",
+    "address": null,
+    "phone": null,
+    "website": null,
+    "intro": "A long table, a full room and a wine list built for food. Our producers sit beside the dishes they were made for.",
+    "on_the_list": [
+      "chateau-villars-fronsac-2018",
+      "la-storia-cuvee-32-2018",
+      "domaine-le-bihan-touraine-sauvignon-2024",
+      "amaro-bonaventura-erbe-e-fiori"
+    ],
+    "image": "/images/table-pizza.jpg",
+    "image_alt": "Two pizzas and a glass of red wine on a wooden table"
+  }
+]

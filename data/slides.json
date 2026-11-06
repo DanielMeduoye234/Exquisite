@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cellar-for-ontario",
+    "kicker": "The private cellar for Ontario",
+    "title": "Family estates from Bordeaux to Napa, one shop in Vaughan.",
+    "body": "Wines and spirits from families we know by name, delivered anywhere in Ontario.",
+    "cta": {
+      "label": "Shop the cellar",
+      "href": "/collections/all"
+    },
+    "secondary": {
+      "label": "Browse by region",
+      "href": "/collections"
+    },
+    "image": "/images/hero-vineyard.jpg",
+    "alt": "Rows of vines running down a hillside toward a farmhouse",
+    "focus": "50% 60%"
+  },
+  {
+    "id": "allocations",
+    "kicker": "Few cases",
+    "title": "Limited allocations, by the case, not the pallet.",
+    "body": "Pomerol, Pessac-Léognan and Napa Cabernet in small numbers. When they are gone, they are gone until next year.",
+    "cta": {
+      "label": "See the allocations",
+      "href": "/collections/limited"
+    },
+    "image": "/images/hero-cellar.jpg",
+    "alt": "Old bottles resting on iron racks in a dim cellar",
+    "focus": "40% 50%"
+  },
+  {
+    "id": "at-the-table",
+    "kicker": "At the table",
+    "title": "Taste it at dinner. Bring the case home.",
+    "body": "Our wines are poured at 7 Enoteca and Centro on the Square.",
+    "cta": {
+      "label": "Where to find us",
+      "href": "/restaurants"
+    },
+    "image": "/images/hero-table.jpg",
+    "alt": "Red wine being poured into a glass at a restaurant table",
+    "focus": "55% 45%"
+  },
+  {
+    "id": "after-dinner",
+    "kicker": "After dinner",
+    "title": "Grappa aged in oak, acacia and cherry.",
+    "body": "Villa de Varda and Bonaventura Maschio: Italy's great distilling families.",
+    "cta": {
+      "label": "Grappa and amaro",
+      "href": "/collections/spirits"
+    },
+    "image": "/images/barrels.jpg",
+    "alt": "Oak barrels stacked in a dim cellar",
+    "focus": "50% 50%"
+  }
+]
